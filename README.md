@@ -25,6 +25,7 @@ The original format was 80k+ CSV files, but I converted it to JSON and pivoted i
 ```shell
 -> % du -sh combined*
 836M    combined.csv
+161M    combined.csv.gz
 3.7G    combined.json
 2.0G    combined_pivoted.json
 145M    combined_pivoted.json.gz
