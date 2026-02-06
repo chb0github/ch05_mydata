@@ -9,6 +9,7 @@ examine your dataset to answer these questions.
 Provide the following information about your chosen dataset:
 
 ### Title of the dataset
+Global Summary of the Year (GSOY)
 
 ### Direct link to the dataset
 [Direct link to the dataset](https://www.ncei.noaa.gov/data/global-summary-of-the-year/access/)
